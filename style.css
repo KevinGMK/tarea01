@@ -1,0 +1,79 @@
+header {
+    background-color: #2E1EBD;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: sticky;
+    width: 100%;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-container {
+    width: 60%;
+    margin: auto;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.section-content {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.section-content h2 {
+    margin-bottom: 20px;
+}
+
+.section-content ul {
+    list-style: none;
+    padding: 0;
+}
+
+.section-content ul li {
+    margin-bottom: 10px;
+}
+
+.special-offer, .team-section, .contact-form-section {
+    background-color: #2E1EBD;
+    color: #00FFEA;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.special-offer button, .contact-form-section button {
+    background-color: #00FFEA;
+    color: #2E1EBD;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.services-section .col-md-3, .team-section .col-md-4 {
+    background-color: #2E1EBD;
+    color: #00FFEA;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.team-section .row {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-form-section input, .contact-form-section textarea {
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 10px;
+}
